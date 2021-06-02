@@ -3,8 +3,8 @@
 - 📫 How to reach me: hyukjun1994@gmail.com
 - 🌎 LinkedIn: [linkedin.com/in/hyukjun](https://www.linkedin.com/in/hyukjun/)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhj94&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhj94&layout=compact&&langs_count=10&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhj94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhj94&layout=compact&&langs_count=10&hide=,tcl,verilog,systemverilog)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
