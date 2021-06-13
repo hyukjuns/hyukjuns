@@ -3,9 +3,9 @@
 - 📫 How to reach me: hyukjun1994@gmail.com
 - 🌎 LinkedIn: [linkedin.com/in/hyukjun](https://www.linkedin.com/in/hyukjun/)
 ## Recently Working Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namhj94&show_owner=true&repo=Terraform)](https://github.com/namhj94/Terraform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namhj94&show_owner=true&repo=tig-terraform-ansible)](https://github.com/namhj94/tig-terraform-ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namhj94&show_owner=true&repo=Terraform&theme=nord)](https://github.com/namhj94/Terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namhj94&show_owner=true&repo=tig-terraform-ansible&theme=nord)](https://github.com/namhj94/tig-terraform-ansible)
 ## Stats
-[![hyukjun's github stats](https://github-readme-stats.vercel.app/api?username=namhj94&show_icons=true&hide_border=true)](https://github.com/namhj94)
+[![hyukjun's github stats](https://github-readme-stats.vercel.app/api?username=namhj94&show_icons=true&hide_border=true&theme=nord)](https://github.com/namhj94)
 ## Languages
-[![hyukjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhj94&layout=compact&&langs_count=10&hide_border=true&hide=,tcl,verilog,systemverilog)](https://github.com/namhj94)
+[![hyukjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhj94&layout=compact&&langs_count=10&hide_border=true&hide=,tcl,verilog,systemverilog&theme=nord)](https://github.com/namhj94)
