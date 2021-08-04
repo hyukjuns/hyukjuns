@@ -3,7 +3,3 @@
 - Email: hyukjun1994@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hyukjun/
 - Algorithm blog: https://hyukjun.tistory.com 
-## Stats
-[![hyukjun's github stats](https://github-readme-stats.vercel.app/api?username=namhj94&show_icons=true&hide_border=true&theme=default)](https://github.com/namhj94)
-## Languages
-[![hyukjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhj94&layout=compact&&langs_count=10&hide_border=true&hide=,tcl,verilog,systemverilog&theme=default)](https://github.com/namhj94)
