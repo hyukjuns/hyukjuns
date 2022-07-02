@@ -4,8 +4,10 @@
 [hyukjuns.github.io](https://hyukjuns.github.io)
 
 ### Repo Search Keyword
+- azure
+- ansible
+- linux
 - k8s (Kubernetes)
-- tf (Terraform)
+- tf,terraform (Terraform)
 - ado (Azure DevOps)
 - esc (Programming Lab)
-- azure, ansible, linux ...
