@@ -5,9 +5,9 @@
 
 ### Repo Search Keyword
 - azure
-- ansible
-- linux
-- k8s (Kubernetes)
-- tf,terraform (Terraform)
 - ado (Azure DevOps)
+- ansible
+- k8s (Kubernetes)
+- linux
+- tf, terraform (Terraform)
 - esc (Programming Lab)
