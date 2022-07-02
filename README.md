@@ -7,7 +7,7 @@
 - azure
 - ado (Azure DevOps)
 - ansible
-- k8s (Kubernetes)
+- kubernetes, k8s
 - linux
-- tf, terraform (Terraform)
+- terraform, tf
 - esc (Programming Lab)
