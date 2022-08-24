@@ -8,4 +8,5 @@
 - kubernetes, k8s
 - linux
 - terraform, tf
+- script
 - esc (Programming Lab)
