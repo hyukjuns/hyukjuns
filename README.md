@@ -6,7 +6,7 @@ Azure Cloud Engineer 남혁준 입니다. <br>
 ### Main Repo
 Go to Pinned Repositories
 
-### Repository Search Keyword
+### Search Keyword
 - ado (Azure DevOps)
 - terraform
 - kubernetes
