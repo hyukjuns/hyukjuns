@@ -6,6 +6,7 @@
 - kubernetes
 - docker
 - shell
+- python
 
 ### More Info
 - [Medium](https://medium.com/@hyukjuner)
